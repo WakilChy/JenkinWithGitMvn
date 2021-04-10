@@ -3,6 +3,12 @@
   <groupId>JenkinsProject</groupId>
   <artifactId>JenkinsProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <properties>
+     <maven.compiler.source>1.8</maven.compiler.source>
+     <maven.compiler.target>1.8</maven.compiler.target>
+</properties>
+  
   <dependencies>
 		
 		
@@ -61,5 +67,7 @@
 		
  </dependencies>
 		
+  <build>
   
+  </build>
 </project>

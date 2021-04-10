@@ -2,30 +2,30 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="33662" started-at="2021-03-25T15:42:41 EDT" finished-at="2021-03-25T15:43:15 EDT">
+  <suite name="Suite" duration-ms="62358" started-at="2021-04-07T23:49:32 EDT" finished-at="2021-04-07T23:50:34 EDT">
     <groups>
     </groups>
-    <test name="Test" duration-ms="33662" started-at="2021-03-25T15:42:41 EDT" finished-at="2021-03-25T15:43:15 EDT">
+    <test name="Test" duration-ms="62358" started-at="2021-04-07T23:49:32 EDT" finished-at="2021-04-07T23:50:34 EDT">
       <class name="com.JenkinsProject.test.Login_Build">
-        <test-method status="PASS" signature="CLead()[pri:0, instance:com.JenkinsProject.test.Login_Build@67205a84]" name="CLead" duration-ms="30412" started-at="2021-03-25T15:42:41 EDT" finished-at="2021-03-25T15:43:12 EDT">
+        <test-method status="PASS" signature="CLead()[pri:0, instance:com.JenkinsProject.test.Login_Build@67205a84]" name="CLead" duration-ms="61046" started-at="2021-04-07T23:49:32 EDT" finished-at="2021-04-07T23:50:33 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CLead -->
       </class> <!-- com.JenkinsProject.test.Login_Build -->
-      <class name="com.JenkinsProject.test.Login_Test">
-        <test-method status="PASS" signature="CLead()[pri:0, instance:com.JenkinsProject.test.Login_Test@5d76b067]" name="CLead" duration-ms="33585" started-at="2021-03-25T15:42:41 EDT" finished-at="2021-03-25T15:43:15 EDT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- CLead -->
-      </class> <!-- com.JenkinsProject.test.Login_Test -->
       <class name="com.JenkinsProject.test.Login_Release">
-        <test-method status="PASS" signature="CLead()[pri:0, instance:com.JenkinsProject.test.Login_Release@7d0587f1]" name="CLead" duration-ms="27733" started-at="2021-03-25T15:42:41 EDT" finished-at="2021-03-25T15:43:09 EDT">
+        <test-method status="PASS" signature="CLead()[pri:0, instance:com.JenkinsProject.test.Login_Release@7d0587f1]" name="CLead" duration-ms="61594" started-at="2021-04-07T23:49:32 EDT" finished-at="2021-04-07T23:50:34 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CLead -->
       </class> <!-- com.JenkinsProject.test.Login_Release -->
+      <class name="com.JenkinsProject.test.Login_Test">
+        <test-method status="PASS" signature="CLead()[pri:0, instance:com.JenkinsProject.test.Login_Test@5d76b067]" name="CLead" duration-ms="61925" started-at="2021-04-07T23:49:32 EDT" finished-at="2021-04-07T23:50:34 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CLead -->
+      </class> <!-- com.JenkinsProject.test.Login_Test -->
       <class name="com.JenkinsProject.test.Login_Deploy">
-        <test-method status="PASS" signature="CLead()[pri:0, instance:com.JenkinsProject.test.Login_Deploy@5e853265]" name="CLead" duration-ms="30529" started-at="2021-03-25T15:42:41 EDT" finished-at="2021-03-25T15:43:12 EDT">
+        <test-method status="PASS" signature="CLead()[pri:0, instance:com.JenkinsProject.test.Login_Deploy@5e853265]" name="CLead" duration-ms="61172" started-at="2021-04-07T23:49:32 EDT" finished-at="2021-04-07T23:50:34 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CLead -->

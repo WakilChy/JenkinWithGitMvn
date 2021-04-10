@@ -1,4 +1,1 @@
-JenkinsDemo\Login_Release.class
-JenkinsDemo\Login_Build.class
-JenkinsDemo\Login_Test.class
-JenkinsDemo\Login_Deploy.class
+demoPakg\HelloBd.class
