@@ -18,6 +18,8 @@ public class BrowserTest {
 		
 		WebDriverManager.chromiumdriver().setup();
 		ChromeDriver driver=new ChromeDriver();
+		System.out.println("Launch the browser ");
+		
 		
 		//Launch the browser 
 		driver.get("https://www.google.com/");
