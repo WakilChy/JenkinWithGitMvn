@@ -18,7 +18,7 @@ public class BrowserTest {
 		
 		WebDriverManager.chromiumdriver().setup();
 		ChromeDriver driver=new ChromeDriver();
-		System.out.println("Launch the browser ");
+		System.out.println("===============    Launch the browser  ===============       ");
 		
 		
 		//Launch the browser 
@@ -27,9 +27,11 @@ public class BrowserTest {
 		driver.manage().timeouts().implicitlyWait(3000, TimeUnit.SECONDS);
 		
 						
-		System.out.println("You are on Google Home page ");
+		System.out.println("======== You are on Google Home page ===========");
 		
 		driver.close();
+		
+		System.out.println("======== Browse closed  ===========");
 		
 
 	}
