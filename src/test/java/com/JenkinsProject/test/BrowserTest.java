@@ -3,7 +3,7 @@ package com.JenkinsProject.test;
 import org.testng.annotations.Test;
 import java.util.concurrent.TimeUnit;
 
-import org.openqa.selenium.By;
+
 import org.openqa.selenium.chrome.ChromeDriver;
 
 
