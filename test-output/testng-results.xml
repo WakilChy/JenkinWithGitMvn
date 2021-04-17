@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="7766" started-at="2021-04-12T10:27:22 EDT" finished-at="2021-04-12T10:27:30 EDT">
+  <suite name="Default suite" duration-ms="3679" started-at="2021-04-16T17:37:56 EDT" finished-at="2021-04-16T17:37:59 EDT">
     <groups>
     </groups>
-    <test name="CrossBrowser" duration-ms="7766" started-at="2021-04-12T10:27:22 EDT" finished-at="2021-04-12T10:27:30 EDT">
-      <class name="com.JenkinsProject.test.BrowserTest">
-        <test-method status="PASS" signature="CLead()[pri:0, instance:com.JenkinsProject.test.BrowserTest@9660f4e]" name="CLead" duration-ms="7702" started-at="2021-04-12T10:27:22 EDT" finished-at="2021-04-12T10:27:30 EDT">
+    <test name="Default test" duration-ms="3679" started-at="2021-04-16T17:37:56 EDT" finished-at="2021-04-16T17:37:59 EDT">
+      <class name="api.intig.APITest01">
+        <test-method status="PASS" signature="statusCode()[pri:0, instance:api.intig.APITest01@64729b1e]" name="statusCode" duration-ms="3605" started-at="2021-04-16T17:37:56 EDT" finished-at="2021-04-16T17:37:59 EDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- CLead -->
-      </class> <!-- com.JenkinsProject.test.BrowserTest -->
-    </test> <!-- CrossBrowser -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- statusCode -->
+      </class> <!-- api.intig.APITest01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

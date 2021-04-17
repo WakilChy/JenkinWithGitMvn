@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.JenkinsProject.test.Login_Build">
+      <class name="api.intig.APITest01">
         <methods>
-          <include name="CLead"/>
+          <include name="statusCode"/>
         </methods>
-      </class> <!-- com.JenkinsProject.test.Login_Build -->
+      </class> <!-- api.intig.APITest01 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
