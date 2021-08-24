@@ -15,6 +15,7 @@ public class APITest01 {
 			System.out.println("Status Content is : "+resGet.contentType());
 			System.out.println("Get time : "+resGet.getTime());
 			//System.out.println("Body  : "+resGet.body().asPrettyString());
+			//s
 			
 			Assert.assertEquals(resGet.getStatusCode(), 200);
 	}
